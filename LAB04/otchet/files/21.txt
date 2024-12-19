@@ -1,0 +1,11 @@
+/home/klimenko/.gnupg/private-keys-v1.d
+/home/klimenko/Videos
+/home/klimenko/Music
+/home/klimenko/Public
+/home/klimenko/Desktop
+/home/klimenko/test_find/permissions
+/home/klimenko/Templates
+/home/klimenko/.vscode/cli
+/home/klimenko/.config/goa-1.0
+/home/klimenko/.cache/obexd
+/home/klimenko/.mozilla/extensions

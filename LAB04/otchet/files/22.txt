@@ -1,0 +1,6 @@
+/usr/bin/devdump
+/usr/sbin/devlink
+/proc/scsi/device_info
+/proc/asound/devices
+/proc/devices
+/etc/apparmor.d/devhelp
